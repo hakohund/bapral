@@ -196,4 +196,3 @@ cython_debug/
 templates/*.png
 templates/*.jpg
 templates/*.jpeg
-templates/*
